@@ -16,5 +16,4 @@ for (let r of rockStar) {
 console.log(newRock);
 
 
-
 module.exports = { rockStar, newRock };
